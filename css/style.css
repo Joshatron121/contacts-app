@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+label {
+	display: inline-block;
+	margin-top: 10px;
+}
+input {
+	display: block;
+}
+
+button.add-contact {
+	margin-top: 10px;
+}
+
+section.name-list {
+	margin-top: 40px;
+}
+
+section.contact-info {
+	display: none;
+}
