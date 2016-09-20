@@ -3,8 +3,18 @@
 	margin: 0;
 }
 
+fieldset {
+	border: none;
+	padding: 0px;
+	margin: 0px;
+}
+
 label {
 	display: inline-block;
+	margin-top: 10px;
+}
+
+.contact-info p {
 	margin-top: 10px;
 }
 input {
